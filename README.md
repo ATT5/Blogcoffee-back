@@ -28,7 +28,7 @@ La API soporta las siguientes operaciones:
 
 ## Autores
 
-- Tu Arturo BAylon
+- Tu Arturo Baylon
 
 ## Licencia
 
